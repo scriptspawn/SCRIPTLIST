@@ -1,7 +1,8 @@
-NOLAG👇👇
+SpeedxHub👇👇
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpeedsxHub/script/refs/heads/main/injector"))()
 
+NOLAG👇👇
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nolagph/nolagHUB/refs/heads/main/NoLagScript"))()
 
 DARK SPAWNER👇👇👇
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptspawn/growagardenspawner/refs/heads/main/darkscript.lua"))()
