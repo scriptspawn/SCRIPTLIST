@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptspawn/growagardenspawner/refs/heads/main/darkscript.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kizarulua/kizaruxdark/refs/heads/main/kizaru-script"))()
